@@ -1,0 +1,9 @@
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\bin\Debug\netcoreapp3.1\training_1.deps.json
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\bin\Debug\netcoreapp3.1\training_1.dll
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\bin\Debug\netcoreapp3.1\training_1.pdb
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\obj\Debug\netcoreapp3.1\training_1.csprojAssemblyReference.cache
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\obj\Debug\netcoreapp3.1\training_1.AssemblyInfoInputs.cache
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\obj\Debug\netcoreapp3.1\training_1.AssemblyInfo.cs
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\obj\Debug\netcoreapp3.1\training_1.csproj.CoreCompileInputs.cache
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\obj\Debug\netcoreapp3.1\training_1.dll
+C:\Users\45535\Desktop\RAWDATA\C#\training_1\training_1\obj\Debug\netcoreapp3.1\training_1.pdb

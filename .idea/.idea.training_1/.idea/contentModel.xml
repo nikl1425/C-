@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\45535\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\45535\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_training_1.2137625149.00" t="ExcludeRecursive" />
+    <e p="C:\Users\45535\Desktop\RAWDATA\C#\training_1" t="IncludeFlat">
+      <e p="CMS.Application" t="Include" />
+      <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ConsoleApp1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="training_1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CMS.UI.Models" t="Include">
+          <e p="AbstractAirplane.cs" t="Include" />
+          <e p="Animal.cs" t="Include" />
+          <e p="Car.cs" t="Include" />
+          <e p="course.cs" t="Include" />
+          <e p="EnumClass.cs" t="Include" />
+          <e p="iAmAPlane.cs" t="Include" />
+          <e p="JetPlane.cs" t="Include" />
+          <e p="obj" t="Include">
+            <e p="CMS.UI.Models.csproj.nuget.dgspec.json" t="Include" />
+            <e p="CMS.UI.Models.csproj.nuget.g.props" t="Include" />
+            <e p="CMS.UI.Models.csproj.nuget.g.targets" t="Include" />
+            <e p="project.assets.json" t="Include" />
+            <e p="project.nuget.cache" t="Include" />
+          </e>
+          <e p="pig.cs" t="Include" />
+          <e p="student.cs" t="Include" />
+          <e p="Vehicle.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="training_1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="training_1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="training_1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

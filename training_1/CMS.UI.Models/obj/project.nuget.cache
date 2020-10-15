@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KR6mAmVVfe9u2sgNU3mfiiQ8lnYF4wprdxbwT2xLC7EkwVi3PmHQj2JnFh5glCmX94PWgRitH8bQJ9TeFv8giQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\45535\\Desktop\\C#\\training_1\\training_1\\CMS.UI.Models\\CMS.UI.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\45535\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\45535\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
