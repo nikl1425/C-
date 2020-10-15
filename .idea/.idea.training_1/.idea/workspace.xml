@@ -13,6 +13,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -33,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ioGCUudL3D5hlVE4S4cEV2dTxD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -89,8 +93,16 @@
       <workItem from="1602613090834" duration="436000" />
       <workItem from="1602708994107" duration="710000" />
       <workItem from="1602743250840" duration="9368000" />
-      <workItem from="1602766055543" duration="3219000" />
+      <workItem from="1602766055543" duration="3663000" />
     </task>
+    <task id="LOCAL-00001" summary="Training so far">
+      <created>1602774011194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602774011194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,36 +112,42 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Training so far" />
+    <option name="LAST_COMMIT_MESSAGE" value="Training so far" />
   </component>
   <component name="WindowStateProjectService">
     <state x="761" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602613482292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602613482292" />
-    <state width="916" height="200" key="GridCell.Tab.0.bottom" timestamp="1602773532475">
+    <state width="916" height="200" key="GridCell.Tab.0.bottom" timestamp="1602773763210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602773532475" />
-    <state width="916" height="200" key="GridCell.Tab.0.center" timestamp="1602773532475">
+    <state width="916" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602773763210" />
+    <state width="916" height="200" key="GridCell.Tab.0.center" timestamp="1602773763210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602773532475" />
-    <state width="916" height="200" key="GridCell.Tab.0.left" timestamp="1602773532474">
+    <state width="916" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602773763210" />
+    <state width="916" height="200" key="GridCell.Tab.0.left" timestamp="1602773763210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602773532474" />
-    <state width="916" height="200" key="GridCell.Tab.0.right" timestamp="1602773532475">
+    <state width="916" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602773763210" />
+    <state width="916" height="200" key="GridCell.Tab.0.right" timestamp="1602773763210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602773532475" />
+    <state width="916" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602773763210" />
     <state x="1032" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1602753602660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1602753602660" />
-    <state x="922" y="165" key="SettingsEditor" timestamp="1602745954241">
+    <state x="922" y="165" key="SettingsEditor" timestamp="1602773964236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602745954241" />
+    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602773964236" />
+    <state x="1032" y="240" key="Vcs.Push.Dialog.v2" timestamp="1602774155140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602774155140" />
     <state x="1044" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1602745050890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
