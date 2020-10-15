@@ -6,9 +6,39 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:training" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a23fc5d9-f6b6-4dda-b02c-db23830dc258" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/training_1/CMS.UI.Models/Data/Text1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.training_1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.training_1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.training_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.training_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/training_1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_1/obj/Debug/netcoreapp3.1/training_1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/training_1/obj/Debug/netcoreapp3.1/training_1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/training_1/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +46,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/45535/Desktop/RAWDATA/C#/training_1/ConsoleApp1/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,7 +84,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -100,7 +132,8 @@
       <workItem from="1602613090834" duration="436000" />
       <workItem from="1602708994107" duration="710000" />
       <workItem from="1602743250840" duration="9368000" />
-      <workItem from="1602766055543" duration="4389000" />
+      <workItem from="1602766055543" duration="6920000" />
+      <workItem from="1602781103347" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="Training so far">
       <created>1602774011194</created>
@@ -123,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602774901583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Training so far">
+      <created>1602775365180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602775365180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +171,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Training so far" />
@@ -141,34 +192,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602613482292" />
-    <state width="916" height="200" key="GridCell.Tab.0.bottom" timestamp="1602774309561">
+    <state width="916" height="196" key="GridCell.Tab.0.bottom" timestamp="1602781651717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602774309561" />
-    <state width="916" height="200" key="GridCell.Tab.0.center" timestamp="1602774309561">
+    <state width="916" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602781651717" />
+    <state width="916" height="196" key="GridCell.Tab.0.center" timestamp="1602781651717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602774309561" />
-    <state width="916" height="200" key="GridCell.Tab.0.left" timestamp="1602774309561">
+    <state width="916" height="196" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602781651717" />
+    <state width="916" height="196" key="GridCell.Tab.0.left" timestamp="1602781651717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602774309561" />
-    <state width="916" height="200" key="GridCell.Tab.0.right" timestamp="1602774309561">
+    <state width="916" height="196" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602781651717" />
+    <state width="916" height="196" key="GridCell.Tab.0.right" timestamp="1602781651717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602774309561" />
-    <state x="1032" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1602753602660">
+    <state width="916" height="196" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602781651717" />
+    <state x="1032" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1602781014141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1602753602660" />
-    <state x="922" y="165" key="SettingsEditor" timestamp="1602774666179">
+    <state x="1032" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1602781014141" />
+    <state x="922" y="165" key="SettingsEditor" timestamp="1602780100767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602774666179" />
-    <state x="1032" y="240" key="Vcs.Push.Dialog.v2" timestamp="1602774902693">
+    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602780100767" />
+    <state x="1101" y="241" key="Vcs.Push.Dialog.v2" timestamp="1602775366250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602774902693" />
+    <state x="1101" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602775366250" />
     <state x="1257" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602774350606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,9 +228,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1235" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602774517189" />
-    <state x="1044" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1602774728646">
+    <state x="1044" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1602780077487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1044" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602774728646" />
+    <state x="1044" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602780077487" />
   </component>
 </project>

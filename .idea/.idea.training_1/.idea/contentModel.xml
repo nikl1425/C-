@@ -25,6 +25,9 @@
           <e p="Animal.cs" t="Include" />
           <e p="Car.cs" t="Include" />
           <e p="course.cs" t="Include" />
+          <e p="Data" t="Include">
+            <e p="Text1.txt" t="Include" />
+          </e>
           <e p="EnumClass.cs" t="Include" />
           <e p="iAmAPlane.cs" t="Include" />
           <e p="JetPlane.cs" t="Include" />
